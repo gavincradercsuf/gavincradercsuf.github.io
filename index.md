@@ -23,11 +23,12 @@ My GitHub page is http://github.com/gavincradercsuf.
     experiences I had with having a little bit of struggle coding and we had to 
     go back and check notes in order to learn the coding. Overall we struggled
     a lot with pushing and getting the correct sandwhich ingredients for the 
-    testing.
+    testing. Overall we were able to learn a good variety of commands like 
+    stringing and initializing something.
 
 * Lab 7
 
-    Last but not least Lab 7 was one of my favorites because growing up I've 
-    always played blackjack with my family and it is probably my favorite card 
-    game and it was a great experience learning how to code blackjack in order 
-    for it run properly.
+    Lab 7 was a great lab that we were able to do. I enjoyed learning new 
+    commands like std:err to return the errors and overall I learned what 
+    return 1; did for the first time. I believe the lab was king of cool with
+    the whole hour system and was very challenging.
